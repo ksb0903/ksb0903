@@ -3,11 +3,8 @@
  - 🏫 부경대학교 컴퓨터공학과 16학번 졸업
  - 7️⃣ 삼성 청년 SW 아카데미(SSAFY) 7기 우수 교육생
  - 📫 ksb5535@naver.com
- - 📙 추후 업데이트 예정
-
+ - 📙 블로그 업데이트 중...
 <br/>
-<br/>
-
 ## 💻tech
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksb5535)
 <br/>🥇 <br/>
