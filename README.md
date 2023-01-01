@@ -28,4 +28,3 @@
 <img src="https://img.shields.io/badge/hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
